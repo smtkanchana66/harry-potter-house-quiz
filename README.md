@@ -142,7 +142,7 @@ window.mainloop()
 ```
 ## Inspiration
 This project was inspired by a coding exercise from <a href="https://www.codedex.io/home">Codex.io</a>, an online platform for learning Python. It provides a practical example of how to create interactive applications using Python.
-## License
+<!-- ## License
 This project is licensed under the MIT License.
 
 
