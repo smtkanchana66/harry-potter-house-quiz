@@ -1,4 +1,4 @@
-# Harry Potter House Quiz
+# Harry Potter House Quiz Documentation 
 This is a Python-based GUI application that sorts users into one of the four Hogwarts houses: Gryffindor, Hufflepuff, Ravenclaw, or Slytherin based on their answers to a few questions. The application uses the Tkinter library to create the user interface.
 ## Features
 - <b> Interactive Quiz: </b> Users answer three questions to determine their Hogwarts house.
